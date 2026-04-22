@@ -19,4 +19,4 @@ def generate_caption(img_path):
         print(f"{label} ({prob:.2f})")
 
 # Run
-generate_caption("image.jpg")
+generate_caption("Task3_ImageCaptioning.png")
